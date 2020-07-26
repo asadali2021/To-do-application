@@ -1,0 +1,18 @@
+body{
+    background-color: #F8EFBA;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    color: #218c74;
+}
+#list{
+    text-align: center;
+    list-style:  none;
+    margin-left: 10px;
+}
+#now{
+    margin-left: 20px;
+    margin-top: 15px;
+}
